@@ -4,7 +4,7 @@ analysis of hyperparameter transferability for tabular data using MIMIC-IV datab
 
 ## What is this?
 
-This is a repository containing code used to reproduce the results presented in the metaMIMIC study available here: (link do artykułu?).
+This is a repository containing code used to reproduce the results presented in the metaMIMIC study available here: (not publicised yet).
 
 ## What is needed to reproduce the results?
 
